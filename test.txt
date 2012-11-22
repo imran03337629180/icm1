@@ -9,6 +9,9 @@ milk
 milk 2
 local file here
 git hub test here
+<<<<<<< HEAD
 add from computer
+added from website
+
 
 
