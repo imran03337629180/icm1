@@ -9,10 +9,11 @@ milk
 milk 2
 local file here
 git hub test here
-<<<<<<< HEAD
 add from computer
 added from website
 Line added by master branch
 Line added by Dev Branch
+2nd line added by master branch
+
 
 
