@@ -12,6 +12,7 @@ git hub test here
 <<<<<<< HEAD
 add from computer
 added from website
+Line added by master branch
 
 
 
